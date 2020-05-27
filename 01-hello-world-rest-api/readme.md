@@ -74,7 +74,7 @@ ENTRYPOINT ["java","-cp","app:app/lib/*","com.in28minutes.rest.webservices.restf
 <plugin>
 	<groupId>com.spotify</groupId>
 	<artifactId>dockerfile-maven-plugin</artifactId>
-	<version>1.4.10</version>
+	<version>1.4.13</version>
 	<executions>
 		<execution>
 			<id>default</id>
